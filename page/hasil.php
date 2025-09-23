@@ -28,12 +28,11 @@
             </select>
         </div>
         <div style="float: right;" class="input-dropdown">
-            <a  class="btn btn-green" id="btn-dropdown" target="_blank" href="./cetakpdf.php"><i class="fa fa-print"></i> Cetak Pdf</a>
-            <!--ul class="dropdown" id="panel-dropdown">
-               <li><a href="./cetakexcel.php"><i class="fa fa-file-excel"></i> Cetak Excel</a></li>
-                <li><a target="_blank" href="./cetakpdf.php"><i class="fa fa-file-pdf"></i> Cetak Pdf</a></li>
-            </ul-->
-        </div>
+    <a class="btn btn-green" target="_blank" href="./cetakpdf.php">
+        <i class="fa fa-print"></i> Cetak PDF
+    </a>
+</div>
+
         <div style="clear: both"></div>
     </div>
     <div class="panel-middle">
